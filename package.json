@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-runtime-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/konojunya/nodejs-runtime-sample.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.6.8"
+  }
+}
